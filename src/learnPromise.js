@@ -16,8 +16,5 @@ let firstPromise = new Promise((resolve,reject)=>{
 console.log('second')
 
 
-console.log(typeof 36)
-console.log(typeof 36.36)
-console.log(typeof -36.36)
 
 
